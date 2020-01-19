@@ -89,7 +89,7 @@ color index         J_yellow        J_red           "~v~(~D)"                   
 
 #color header        J_base01        J_bg            "^"
 color hdrdefault    J_base01        J_bg            
-color header        J_base00        J_bg            "^(From)"
+color header        J_base00        J_bg            "^(From|To|CC)"
 color header        J_blue          J_bg            "^(Subject)"
 
 # body -----------------------------------------------------------------

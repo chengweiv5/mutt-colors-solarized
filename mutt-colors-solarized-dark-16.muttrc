@@ -89,7 +89,7 @@ color index         yellow          red             "~v~(~D)"                   
 
 #color header        brightgreen     default         "^"
 color hdrdefault    brightgreen     default         
-color header        brightyellow    default         "^(From)"
+color header        brightyellow    default         "^(From|To|CC)"
 color header        blue            default         "^(Subject)"
 
 # body -----------------------------------------------------------------
